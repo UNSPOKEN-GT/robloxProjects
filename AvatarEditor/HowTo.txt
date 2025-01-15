@@ -1,4 +1,4 @@
-# 1: Insert a Rig in workspace (directory can be modified within the Client script)
+# 1: Insert a Rig in ReplicatedStorage (you must do this step, ensure it is within ReplicatedStorage otherwise it won't work)
 # 2: Place the Client LocalScript within ScreenGUI, with the GUI inside of the LocalScript
 # 3: Place the AvatarEditor Module within ReplicatedStorage (directory can be changed within the Client LocalScript)
 # 4: Hit Play
